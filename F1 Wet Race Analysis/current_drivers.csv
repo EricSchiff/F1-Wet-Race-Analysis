@@ -1,0 +1,21 @@
+,driverId,driverRef,number,code,forename,surname,dob,nationality,url,Wet Race Avg. Position,Race Avg. Position,Wet Race Performance
+0,1,hamilton,44,HAM,Lewis,Hamilton,1/7/1985,British,http://en.wikipedia.org/wiki/Lewis_Hamilton,4.459459459,4.782771536,0.323312076
+821,822,bottas,77,BOT,Valtteri,Bottas,8/28/1989,Finnish,http://en.wikipedia.org/wiki/Valtteri_Bottas,9.214285714,6.974683544,-2.23960217
+829,830,max_verstappen,33,VER,Max,Verstappen,9/30/1997,Dutch,http://en.wikipedia.org/wiki/Max_Verstappen,7.090909091,7.491666667,0.400757576
+814,815,perez,11,PER,Sergio,Pérez,1/26/1990,Mexican,http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez,9.5,10.31443299,0.81443299
+844,846,norris,4,NOR,Lando,Norris,11/13/1999,British,http://en.wikipedia.org/wiki/Lando_Norris,13,9.820512821,-3.179487179
+816,817,ricciardo,3,RIC,Daniel,Ricciardo,7/1/1989,Australian,http://en.wikipedia.org/wiki/Daniel_Ricciardo,11.25,9.714285714,-1.535714286
+842,844,leclerc,16,LEC,Charles,Leclerc,10/16/1997,Monegasque,http://en.wikipedia.org/wiki/Charles_Leclerc,11.75,9.183333333,-2.566666667
+831,832,sainz,55,SAI,Carlos,Sainz,9/1/1994,Spanish,http://en.wikipedia.org/wiki/Carlos_Sainz_Jr.,7.727272727,11.04166667,3.314393939
+19,20,vettel,5,VET,Sebastian,Vettel,7/3/1987,German,http://en.wikipedia.org/wiki/Sebastian_Vettel,7.611111111,6.366795367,-1.244315744
+839,840,stroll,18,STR,Lance,Stroll,10/29/1998,Canadian,http://en.wikipedia.org/wiki/Lance_Stroll,10.33333333,12.56962025,2.23628692
+452,842,gasly,10,GAS,Pierre,Gasly,2/7/1996,French,http://en.wikipedia.org/wiki/Pierre_Gasly,15.25,11.18461538,-4.065384615
+850,852,tsunoda,22,TSU,Yuki,Tsunoda,5/11/2000,Japanese,http://en.wikipedia.org/wiki/Yuki_Tsunoda,,9,
+3,4,alonso,14,ALO,Fernando,Alonso,7/29/1981,Spanish,http://en.wikipedia.org/wiki/Fernando_Alonso,8.704545455,8.263492063,-0.441053391
+838,839,ocon,31,OCO,Esteban,Ocon,9/17/1996,French,http://en.wikipedia.org/wiki/Esteban_Ocon,10.83333333,11.17647059,0.343137255
+7,8,raikkonen,7,RAI,Kimi,Räikkönen,10/17/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,10.39473684,8.216216216,-2.178520626
+840,841,giovinazzi,99,GIO,Antonio,Giovinazzi,12/14/1993,Italian,http://en.wikipedia.org/wiki/Antonio_Giovinazzi,17.25,14.2195122,-3.030487805
+845,847,russell,63,RUS,George,Russell,2/15/1998,British,http://en.wikipedia.org/wiki/George_Russell_%28racing_driver%29,15,15.53846154,0.538461538
+847,849,latifi,6,LAT,Nicholas,Latifi,6/29/1995,Canadian,http://en.wikipedia.org/wiki/Nicholas_Latifi,19,15.88888889,-3.111111111
+852,854,mick_schumacher,47,MSC,Mick,Schumacher,3/22/1999,German,http://en.wikipedia.org/wiki/Mick_Schumacher,,16,
+851,853,mazepin,9,MAZ,Nikita,Mazepin,3/2/1999,Russian,http://en.wikipedia.org/wiki/Nikita_Mazepin,,20,
